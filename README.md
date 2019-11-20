@@ -1,7 +1,7 @@
-server
+#####server
   npm i - инициализация
   npm start - запуск сервера
-  
-frontend
+***
+#####frontend
   npm i - инициализация
   npm start - запуск сервера
