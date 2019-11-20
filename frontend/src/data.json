@@ -1,0 +1,99 @@
+[{
+		"id": 1,
+		"name": "Телевизор Samsung UE43N5000AU",
+		"price": 120,
+		"image": "https://img.mvideo.ru/Pdb/10018821b.jpg",
+		"category": "led"
+	},
+	{
+		"id": 2,
+		"name": "Телевизор LG 43UK6200PLA",
+		"price": 60,
+		"image": "https://img.mvideo.ru/Pdb/10019131b.jpg",
+		"category": "led"
+	},
+	{
+		"id": 3,
+		"name": "Телевизор Samsung UE32N4000AU Samsung",
+		"price": 148,
+		"image": "https://img.mvideo.ru/Pdb/10018818b.jpg",
+		"category": "led"
+	},
+	{
+		"id": 4,
+		"name": "Телевизор LG 32LJ510U 45/568",
+		"price": 132,
+		"image": "https://img.mvideo.ru/Pdb/10018821b.jpg",
+		"category": "led"
+	},
+	{
+		"id": 5,
+		"name": "Телевизор Sony KDL-43WF805",
+		"price": 156,
+		"image": "https://img.mvideo.ru/Pdb/10018370b.jpg",
+		"category": "led"
+	},
+	{
+		"id": 6,
+		"name": "Телевизор LG 43LK5910 254/658f",
+		"price": 116,
+		"image": "https://img.mvideo.ru/Pdb/10016631b.jpg",
+		"category": "led"
+	},
+	{
+		"id": 7,
+		"name": "Кофемашина Siemens EQ.6",
+		"price": 82,
+		"image": "https://img.mvideo.ru/Pdb/20052027b.jpg",
+		"category": "cofe"
+	},
+	{
+		"id": 8,
+		"name": "Кофемашина Bosch VeroCup",
+		"price": 35,
+		"image": "https://img.mvideo.ru/Pdb/20061403b.jpg",
+		"category": "cofe"
+	},
+	{
+		"id": 9,
+		"name": "Кофемашина Philips EP5065",
+		"price": 60,
+		"image": "https://img.mvideo.ru/Pdb/20055854b.jpg",
+		"category": "cofe"
+	},
+	{
+		"id": 10,
+		"name": "Кофемашина DeLonghi 256/458 fg",
+		"price": 75,
+		"image": "https://img.mvideo.ru/Pdb/20038196b.jpg",
+		"category": "cofe"
+	},
+	{
+		"id": 11,
+		"name": "Кофемашина DeLonghi ECAM",
+		"price": 22,
+		"image": "https://img.mvideo.ru/Pdb/20028807b.jpg",
+		"category": "cofe"
+	},
+	{
+		"id": 12,
+		"name": "Холодильник Hotpoint-Ariston",
+		"price": 148,
+		"image": "https://img.mvideo.ru/Pdb/20032258b.jpg",
+		"category": "fridge"
+	},
+	{
+		"id": 13,
+		"name": "Холодильник LG GA-B419SYJL",
+		"price": 175,
+		"image": "https://img.mvideo.ru/Pdb/20057612b.jpg",
+		"category": "fridge"
+	},
+	{
+		"id": 14,
+		"name": "Холодильник Indesit ITF 020 W",
+		"price": 116,
+		"image": "https://img.mvideo.ru/Pdb/20051947b.jpg",
+		"category": "fridge"
+	}
+]

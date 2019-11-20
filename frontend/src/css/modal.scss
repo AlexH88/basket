@@ -1,0 +1,54 @@
+.btn-close{
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  right: 5px;
+  top: 4px;
+  cursor: pointer;
+  img{
+    width: 20px;
+    height: 20px;
+  }
+}
+
+.modal-result{
+  z-index: 999;
+  display: block;
+  position: fixed;
+  top: 110px;
+  width: 360px;
+  height: 438px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+  background: aliceblue;
+  margin: 0 auto;
+  left: 50%;
+  margin-left: -180px;
+  .modal-action{
+    background: #fff;
+    position: absolute;
+    bottom: 0;
+    padding: 16px;
+    width: 100%;
+    button {
+      display: block;
+      width: 100%;
+    }
+  }
+}
+
+.ul-list-currency{
+  li{
+      text-align: -webkit-center;
+      padding: 6px;
+      font-size: 18px;
+  }
+}
+
+.modal-heder{
+  background: #fff;
+  height: 50px;
+  text-align: center;
+  h3{
+    padding-top: 14px;
+  }
+}
